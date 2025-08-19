@@ -1,5 +1,5 @@
 # Hey, I'm Siddhartha😀
-🛠️  Building: A cool, dynamic weather web app<br>🏍  Chat with me about: Bikes, cars, laptops, tech, or music<br>📚  Learning: React, JS, Java, frontend/backend magic, and a bit of Japanese (こにちわ)<br>🎸  Fun fact: I play bass, ride bikes, and can geek out over engines, gadgets, and guitar rigs for hours
+🛠️  Building: A cool, dynamic weather web app<br>🏍  Chat with me about: Bikes, Cars, Tech, or Music<br>📚  Learning: React, JS, Java, frontend/backend magic, and a bit of Japanese (こにちわ)<br>🎸  Fun fact: I play bass, ride bikes, and can geek out over engines, gadgets, and guitar rigs for hours
 
 
 ## 🌐 Socials:
